@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "decd9b0c-9150-4190-b435-e77818c3e3d4"
+      }
+    },
+    "owner": "aleexismiller",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/decd9b0c-9150-4190-b435-e77818c3e3d4"
     }
   }
 }
